@@ -15,7 +15,7 @@ data_CIF_TWIN
     _dictionary.title             CIF_TWIN
     _dictionary.class             Instance
     _dictionary.version           3.1.0
-    _dictionary.date              2025-11-24
+    _dictionary.date              2026-01-19
     _dictionary.uri
         https://github.com/COMCIFS/Twinning_Dictionary/blob/main/cif_twin.dic
     _dictionary.ddl_conformance   4.2.0
@@ -1177,7 +1177,7 @@ save_
                    Added r to enumeration list of _twin_refln_include_status.
        2014-02-14  BMcM and NJA: minor editing for clean release version
 ;
-         3.1.0                    2025-11-24
+         3.1.0                    2026-01-19
 ;
        2014-06-20  Converted to DDLm (SRH/JRH)
        2024-11-21  Examples and history returned to main dictionary (JRH)
